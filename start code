@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+
+  return 0；
+}
+//这是C语言代码，对吗？
